@@ -1,0 +1,4 @@
+Fix betting buttons
+Fix reset hand button + class
+Better messages
+victory / loss conditions
